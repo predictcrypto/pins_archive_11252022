@@ -30,7 +30,7 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17222
+  rows: 17221
   cols: 3
   type: table
 - path: kusd_price
@@ -130,6 +130,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 55379
+  rows: 55799
   cols: 11
   type: table
