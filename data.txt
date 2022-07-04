@@ -35,7 +35,7 @@
   type: table
 - path: kusd_price
   name: kusd_price
-  rows: 17161
+  rows: 17162
   cols: 3
   type: table
 - path: usds_price
@@ -85,7 +85,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 2844
+  rows: 2842
   cols: 62
   type: table
 - path: hitBTC_orderbooks_github
