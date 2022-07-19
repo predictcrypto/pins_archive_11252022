@@ -65,7 +65,7 @@
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 17141
+  rows: 17140
   cols: 3
   type: table
 - path: bdao_price
@@ -110,12 +110,12 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 7325
+  rows: 7400
   cols: 9
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 7325
+  rows: 7400
   cols: 9
   type: table
 - path: hdao_holders
