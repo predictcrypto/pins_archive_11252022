@@ -115,7 +115,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 8025
+  rows: 7950
   cols: 9
   type: table
 - path: hdao_holders
