@@ -120,7 +120,7 @@
   type: table
 - path: hdao_holders
   name: hdao_holders
-  rows: 9259
+  rows: 9260
   cols: 9
   type: table
 - path: decentraland_MANA_orders
