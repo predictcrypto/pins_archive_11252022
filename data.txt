@@ -20,7 +20,7 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17216
+  rows: 17218
   cols: 3
   type: table
 - path: wxtz_price
@@ -125,7 +125,7 @@
   type: table
 - path: decentraland_MANA_orders
   name: decentraland_MANA_orders
-  rows: 10012
+  rows: 10007
   cols: 19
   type: table
 - path: sushiswap_daily
