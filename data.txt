@@ -130,6 +130,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 67349
+  rows: 67784
   cols: 11
   type: table
