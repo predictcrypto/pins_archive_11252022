@@ -55,7 +55,7 @@
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 17220
+  rows: 17219
   cols: 3
   type: table
 - path: rsal_price
@@ -130,6 +130,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 67784
+  rows: 68238
   cols: 11
   type: table
