@@ -118,3 +118,8 @@
   rows: 9855
   cols: 9
   type: table
+- path: decentraland_MANA_orders
+  name: decentraland_MANA_orders
+  rows: 10029
+  cols: 19
+  type: table
