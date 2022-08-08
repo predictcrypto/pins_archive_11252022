@@ -93,3 +93,8 @@
   rows: 197671
   cols: 14
   type: table
+- path: GRT_network_stats
+  name: GRT_network_stats
+  rows: 2851
+  cols: 62
+  type: table
