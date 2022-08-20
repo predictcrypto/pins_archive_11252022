@@ -5,7 +5,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17196
+  rows: 17197
   cols: 3
   type: table
 - path: stkr_price
@@ -80,7 +80,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 2856
+  rows: 2855
   cols: 62
   type: table
 - path: hitBTC_orderbooks_github
