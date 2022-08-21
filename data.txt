@@ -23,3 +23,8 @@
   rows: 17208
   cols: 3
   type: table
+- path: wxtz_price
+  name: wxtz_price
+  rows: 17209
+  cols: 3
+  type: table
