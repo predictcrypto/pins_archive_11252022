@@ -48,3 +48,8 @@
   rows: 17208
   cols: 3
   type: table
+- path: ethtz_price
+  name: ethtz_price
+  rows: 17208
+  cols: 3
+  type: table
