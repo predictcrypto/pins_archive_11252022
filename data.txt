@@ -38,3 +38,8 @@
   rows: 17209
   cols: 3
   type: table
+- path: usds_price
+  name: usds_price
+  rows: 17208
+  cols: 3
+  type: table
