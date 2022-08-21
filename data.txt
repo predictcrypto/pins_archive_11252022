@@ -88,3 +88,8 @@
   rows: 0
   cols: 26
   type: table
+- path: crypto_tutorial_results_latest
+  name: crypto_tutorial_results_latest
+  rows: 920
+  cols: 6
+  type: table
