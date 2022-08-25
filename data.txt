@@ -100,7 +100,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 9465
+  rows: 9560
   cols: 9
   type: table
 - path: GRT_network_stats
