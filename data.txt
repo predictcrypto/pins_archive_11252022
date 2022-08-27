@@ -28,3 +28,8 @@
   rows: 17192
   cols: 3
   type: table
+- path: wrap_price
+  name: wrap_price
+  rows: 17197
+  cols: 3
+  type: table
