@@ -38,3 +38,8 @@
   rows: 17198
   cols: 3
   type: table
+- path: stkr_price
+  name: stkr_price
+  rows: 17198
+  cols: 3
+  type: table
