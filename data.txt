@@ -35,12 +35,12 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17220
+  rows: 17219
   cols: 3
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17220
+  rows: 17219
   cols: 3
   type: table
 - path: kusd_price
@@ -125,6 +125,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 80099
+  rows: 80457
   cols: 11
   type: table
