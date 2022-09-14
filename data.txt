@@ -125,6 +125,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 83993
+  rows: 85976
   cols: 11
   type: table
