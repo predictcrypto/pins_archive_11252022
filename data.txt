@@ -70,17 +70,17 @@
   type: table
 - path: rsal_price
   name: rsal_price
-  rows: 17218
+  rows: 17219
   cols: 3
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 17218
+  rows: 17219
   cols: 3
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 17218
+  rows: 17219
   cols: 3
   type: table
 - path: plenty_price
@@ -125,6 +125,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 88882
+  rows: 88477
   cols: 11
   type: table
