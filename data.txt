@@ -60,12 +60,12 @@
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 17219
+  rows: 17218
   cols: 3
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 17219
+  rows: 17218
   cols: 3
   type: table
 - path: rsal_price
@@ -125,6 +125,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 90088
+  rows: 90449
   cols: 11
   type: table
