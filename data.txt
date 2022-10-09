@@ -40,12 +40,12 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17222
+  rows: 17221
   cols: 3
   type: table
 - path: kusd_price
   name: kusd_price
-  rows: 17222
+  rows: 17221
   cols: 3
   type: table
 - path: usds_price
@@ -125,6 +125,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 94574
+  rows: 95540
   cols: 11
   type: table
