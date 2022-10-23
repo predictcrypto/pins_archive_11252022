@@ -90,7 +90,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 17142
+  rows: 17141
   cols: 3
   type: table
 - path: sushiswap_hourly
@@ -115,7 +115,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 9870
+  rows: 9210
   cols: 9
   type: table
 - path: decentraland_MANA_orders
